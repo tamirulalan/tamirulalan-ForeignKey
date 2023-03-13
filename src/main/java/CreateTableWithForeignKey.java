@@ -66,7 +66,7 @@ import java.sql.Statement;
 public class CreateTableWithForeignKey {
 
     /**
-     *       user table:
+     *       site_user table:
      *       |   id  |     firstname        |        lastname        |
      *       ----------------------------------------------------------
      *       |1      |'Steve'               |'Garcia'                |
